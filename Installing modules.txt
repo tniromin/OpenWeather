@@ -1,0 +1,6 @@
+Go to Pyhton folder and then go to scripts
+open cmd use
+"cd /dir/"
+Type pip install [module_name]
+
+Note [ ] are not to be typed with the name of the module
